@@ -1,0 +1,2 @@
+index,name,longitude,latitude,elevation,collection start,collection end,solution status,lateral rms,sample count,antenna height
+1,Point 1,-65.72141512937564,-44.79672400103418,53.91236398333346,2019-11-11 19:24:01 UTC,2019-11-11 19:44:01 UTC,SINGLE,0.2734,6000.0,1.205
