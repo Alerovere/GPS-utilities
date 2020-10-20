@@ -1,0 +1,12 @@
+% program   : RTKPOST ver.2.4.3 b31
+% inp file  : E:\Work_data_Full\Work\Field data\2019_Cape Verde\Caboverde2019\GPS_data\Base\26_11_2019\merged\raw_20191126????.obs
+% inp file  : E:\Work_data_Full\Work\Field data\2019_Cape Verde\Caboverde2019\GPS_data\CPVG\cpvg????.19d
+% inp file  : E:\Work_data_Full\Work\Field data\2019_Cape Verde\Caboverde2019\GPS_data\Base\26_11_2019\merged\raw_20191126????.nav
+% inp file  : E:\Work_data_Full\Work\Field data\2019_Cape Verde\Caboverde2019\GPS_data\Base\26_11_2019\merged\raw_20191126????.sbs
+% obs start : 2019/11/26 11:04:29.8 GPST (week2081 212669.8s)
+% obs end   : 2019/11/26 17:57:16.8 GPST (week2081 237436.8s)
+% ref pos   : 16.732062010  -22.934933040    94.0890
+%
+% (lat/lon/height=WGS84/ellipsoidal,Q=1:fix,2:float,3:sbas,4:dgps,5:single,6:ppp,ns=# of satellites)
+%  GPST                  latitude(deg) longitude(deg)  height(m)   Q  ns   sdn(m)   sde(m)   sdu(m)  sdne(m)  sdeu(m)  sdun(m) age(s)  ratio
+2019/11/26 11:04:29.800   16.850979942  -22.921967539    45.3970   1  11   0.0000   0.0000   0.0001   0.0000  -0.0000   0.0000  16.79  182.7

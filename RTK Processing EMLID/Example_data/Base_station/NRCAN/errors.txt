@@ -1,0 +1,1 @@
+raw_201911021449.obs | Warning : No antenna type RINEX header record was found. Phase Centre Offsets and Variation could not be applied. Estimated height should be used with caution. raw_201911021449.nav | Error : Not a valid RINEX observation file. raw_201911021449.sbs | Error : Not a valid RINEX observation file.
