@@ -1,0 +1,4 @@
+﻿Processing type,Latitude (dec degrees),Longitude (dec degrees),Height above ellipsoid (m),Latitude 2-sigma (m),Longitude 2-sigma (m),Elevation 2-sigma (m)
+NRCAN,-44.80058399,-65.70609726,25.78,0.102,0.193,0.198
+PDE3,-44.80058667,-65.70609647,25.5236,0.333,0.333,0.999
+RWSN,-44.80058441,-65.70609645,25.2408,0.168,0.168,0.504

@@ -1,3 +1,0 @@
-index,name,longitude,latitude,elevation,collection start,collection end,solution status,lateral rms,sample count,antenna height
-1,Bedrock,-65.73858362546507,-44.84221291496167,24.03675766666668,2019-11-12 13:21:28 UTC,2019-11-12 13:23:28 UTC,SINGLE,0.096,600.0,1.775
-2,Top of shells,-65.73871074992503,-44.842207135078304,26.466094333333334,2019-11-12 13:24:11 UTC,2019-11-12 13:26:11 UTC,SINGLE,0.1184,600.0,1.775
