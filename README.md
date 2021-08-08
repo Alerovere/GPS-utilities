@@ -25,15 +25,13 @@ https://docs.emlid.com/reach/common/tutorials/ppp-introduction/
 This discussion on the EMLID forum contains some useful insights on the processing, as well another (similar) tool, including an intuitive user interface. The results of this script compare well with those obtained from this tool.
 https://community.emlid.com/t/ppk-point-extractor-software/12822/46
 
-## RTK Processing of EMLID Reach RS+ GPS data
+## RTK postptocessing
 
-This script can be used to process data from GNSS receivers. One is a rover, the second is used as base station. At the time of data collection, the two receivers are connected through radio, working in RTK. Base station data are first acquired "on the fly" with a 10-minutes average single measurement, and then postprocessed using wither PPP or a PPK. To use the script, the following inputs are required:
+This script can be used to process data from two GNSS receivers that were set to collect data in RTK mode, for which the precise base position was not available at the time of survey. To use the script, the following inputs are required:
 
  - Initial base station position
  - Corrected Lat,Lon,Height of base station
  - Files exported from the data collector in *.csv* format
-
-The script first merges the data collector files into a single dataframe. Then, postprocessed rover data is imported and a new dataframe is created with time-averaged postprocessed static positions acquired in FIX status. Time-averaged positions are also calculated for FLOAT status datapoints. All the results are saved in a multi-sheet excel file.
 
 A general outline of the survey workflow is explained here:
 
