@@ -36,3 +36,6 @@ This script can be used to process data from two GNSS receivers that were set to
 A general outline of the survey workflow is explained here:
 
 https://docs.emlid.com/reach/common/tutorials/placing-the-base/
+
+## RTKlib .pos file to .csv
+This script converts .pos data (output of RTKlib) to .csv files
