@@ -6,6 +6,12 @@ This script usess a Monte-Carlo approach to calculate the average position (with
 
 ![alt text](GNSS_Averaging/GNSS_averaged.svg)
 
+# Comparison of two GNSS points within error ellipses
+This script compares the distance of two GNSS points (Lat/Lon/Height Above Ellipsoid) within their uncertainties. 
+
+![alt text](GNSS_Averaging/GNSS_averaged.svg)
+
+
 ## PPP + PPK Processing of EMLID Reach RS+ GPS data
 This script can be used to process data from two EMLID REACH RS+ GPS receivers (single band). One is a rover, the second is used as base station. Base station data are processed with PPP. To use the script, the following inputs are required:
  - Base station data processed with the National Resources Canada (NRCAN) Precise Point Positioning service (CSRS-PPP)
