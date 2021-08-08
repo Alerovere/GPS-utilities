@@ -2,6 +2,7 @@
 This repository contains a series of jupyter notebooks to postprocess GPS data. Each notebook is oragnized within a folder, where also example files are stored.
 
 This dataset can be cited via the DOI provided in Zenodo
+
 [![DOI](https://zenodo.org/badge/268749470.svg)](https://zenodo.org/badge/latestdoi/268749470)
 
 # Comparison of two GNSS points within error ellipses
