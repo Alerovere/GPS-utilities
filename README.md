@@ -1,5 +1,10 @@
-# GPS-utilities
+# GNSS processing scripts and utilities
 This repository contains a series of jupyter notebooks to postprocess GPS data. Each notebook is oragnized within a folder, where also example files are stored.
+
+# Comparison of two GNSS points within error ellipses
+This script compares the distance of two GNSS points (Lat/Lon/Height Above Ellipsoid) within their uncertainties. 
+
+![alt text](GNSS_data_comparison/GNSS_comparison.svg)
 
 ## Single GNSS position from multiple points
 This script usess a Monte-Carlo approach to calculate the average position (with positioning uncertainties) given a series of GNSS points collected at the same location. It can be used, for example, when several processing options are available for a base station point. The result is a single averaged position, with associated Lat/Lon/elevation 2-sigma uncertainties.
